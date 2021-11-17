@@ -8,3 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am no Fun XD
 
+```javascript
+alert("WELCOME");
+```
+
